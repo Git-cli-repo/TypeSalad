@@ -1,0 +1,13 @@
+{
+  "name": "typesalad",
+  "version": "1.0.8",
+  "description": "Adds more static typing and C# like structure to JS without relying on TypeScript.",
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "module",           
+  "main": "TypeSalad.mjs",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+
+}

@@ -1,0 +1,8 @@
+1.0.0 - Initial Release
+1.0.1 - Minor Post-Release Bugfix
+1.0.2 - Enforce Strict Typing when creating TypeSalad variables (ie, disallow 'SaladString(5)' and force 'SaladString('5')')
+1.0.3 - Applied fixes to toString method and System.Concat 
+1.0.4 - Minor fix to System.Concat
+1.0.5 - Added missing Exports
+1.0.6 - Fixed issues with System.StoreData when storing undefined keys, Fixed minor issues with SaladMath package relating to unextended classes
+1.0.7 - Corrected error-inducing 'fix' on SaladMath and implemented correct fix
